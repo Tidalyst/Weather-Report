@@ -2,15 +2,15 @@
 
 This project is a real-time weather dashboard built in Power BI, connected to a weather API to display up-to-date weather conditions and forecasts for selected locations.
 
-🚀 **Features
-**
+🚀 **Features**
+
 - Live weather updates (temperature, humidity, wind speed, etc.)
 - 3–7 day weather forecast
 - Location-specific data
 - Automatic refresh using API connection
 - Clean and interactive Power BI visuals
 
-🔧** Tools & Tech**
+🔧 **Tools & Tech**
 
 - Platform: Power BI
 - Data Source: Weather API (https://www.weatherapi.com/)
@@ -34,6 +34,6 @@ This project is a real-time weather dashboard built in Power BI, connected to a 
 - Create mobile-optimized version
 - Enable alerts for extreme weather conditions
 
-📎** Access**
+📎 **Access**
 
 - 🌐 Live version : https://app.powerbi.com/view?r=eyJrIjoiNzMwMGIxODctNWEwMy00MGQ4LWFlMDUtNjU2ZGQzMmE1OTkwIiwidCI6ImMzMTIwMjdlLTFmYWUtNDIwYi04NGI4LTJjOTBjOTFmNGI5YyJ9
